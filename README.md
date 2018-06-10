@@ -5,7 +5,7 @@ Push a button to capture an image with the camera, and TensorFlow Lite will tell
 you what it is!
 
 ## Introduction
-
+中文介绍https://blog.csdn.net/wfing/article/details/64934328   
 When a button is pushed or when the touchscreen is touched, the current image is captured from the
 camera. The image is then converted and piped into a TensorFlow Lite classifier model that
 identifies what is in the image. Up to three results with the highest confidence returned by the
